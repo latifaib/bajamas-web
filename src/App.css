@@ -1,0 +1,6 @@
+/* src/App.css - app-level overrides (keep small) */
+.app {
+  max-width: 1280px;
+  margin: 0 auto;
+  background: transparent;
+}

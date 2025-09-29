@@ -1,0 +1,12 @@
+/* ===== Global Reset ===== */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #fafafa;
+  color: #333;
+  font-family: Arial, sans-serif;
+}
