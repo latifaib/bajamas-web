@@ -9,7 +9,8 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "bun run build",
-  "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist",
+    "homepage": "https://yourusername.github.io/bajamas-web"
   },
   "dependencies": {
     "prettier": "^3.6.2",
